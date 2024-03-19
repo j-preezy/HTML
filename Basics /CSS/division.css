@@ -1,0 +1,10 @@
+body{
+    background: #0ab9a4;
+    margin-left: 50px;
+}
+
+#one{
+    border-radius: 20px 20px 20px 20px;
+    height: 100px;
+
+}

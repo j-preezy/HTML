@@ -1,0 +1,41 @@
+body{
+    background: black;
+    background-image: url("https://www.egames.news/__export/1671161100704/sites/debate/img/2022/12/15/rockstar_games.jpg_759710130.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#ab{
+    color: aquamarine;
+    font-size: 30px;
+}
+
+.ac{
+    color: brown;
+    font-size: 20px;
+}
+
+img{
+    width: 150px;
+}
+
+a{
+    font-size: 15px;
+    text-decoration: none;
+    color: orange;
+    
+}
+
+a:hover{
+    color: white;
+}
+
+/*#one{*/
+/*    float: left;*/
+/*    */
+
+/*#two{*/
+/*    float: right;*/
+
+/*}*/

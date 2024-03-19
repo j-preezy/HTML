@@ -1,0 +1,47 @@
+ol{
+    background: #98c2bc;
+    padding: 15px;
+    cursor: pointer;
+    
+}
+
+ul{
+    background: #ba7f1f;
+    padding: 10px;
+    margin-left: 5px;
+    cursor: grab;
+    /*float: inherit;*/
+}
+
+ul > li{
+    list-style-type: square;
+    background: #e8c285;
+    padding: 2px;
+    
+}
+ul > li:hover{
+    background: #ebee29;
+    border-radius: 20px;
+}
+
+ol > li{
+    background: #29eeec;
+    padding: 3px;
+}
+ol > li:hover{
+    background: #ebee29;
+    border-radius: 20px;
+}
+
+p >b{
+    color: #40ee29;
+}
+
+p >.aa{
+    color: red;
+}
+
+p{
+    color: white;
+
+}

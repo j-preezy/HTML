@@ -1,0 +1,59 @@
+body{
+    background-color: indianred;
+    
+    /*margins-can use px or %*/
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    text-align: justified;
+}
+p{
+    color: darkblue;
+}
+
+.one{
+    color: darkblue;
+    border: darkblue 2px solid;
+    border-radius: 10px;
+    border-width: 5px;
+
+}
+b{
+    border: brown 3px solid;
+    border-radius: 100px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: Red;
+}
+a:hover{
+      color: a2361f;
+    font-size: 30px;
+    border-bottom: darkblue 1px dotted;
+  }
+
+
+.b{
+    font-size: 30px;
+}
+.aa{
+    border-radius: 5px 20px 5px 20px;
+    width: 40%;
+}
+.ab{
+    margin-left: 60px;
+    border-radius: 5px 20px 5px 20px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+

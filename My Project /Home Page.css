@@ -1,0 +1,66 @@
+body{
+    background: #272a2a;
+    
+    
+    
+}
+
+#pp{
+    background: #127676;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    cursor: progress;
+
+}
+
+h1{
+    text-align: Center;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Single Day', cursive;
+    Font-size: 50px;
+    
+}
+
+h2:hover{
+    color: aquamarine;
+    cursor: grabbing;
+}
+
+
+
+#aa{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 100px;
+    margin-left: 46%;
+    margin-top: 10px;
+    
+}
+
+#pr{
+    color: white;
+    
+}
+
+.qw{
+    font-size: 30px;
+    color: white;
+    font-family: 'Single Day', cursive;;
+}
+
+.games{
+    font-size: 20px;
+    color: brown;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+
+}
